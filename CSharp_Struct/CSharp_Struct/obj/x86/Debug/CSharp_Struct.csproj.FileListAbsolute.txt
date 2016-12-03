@@ -1,0 +1,5 @@
+C:\Users\NOMA\Documents\Projects\CSharp_Struct\CSharp_Struct\obj\x86\Debug\CSharp_Struct.csprojResolveAssemblyReference.cache
+C:\Users\NOMA\Documents\Projects\CSharp_Struct\CSharp_Struct\bin\Debug\CSharp_Struct.exe
+C:\Users\NOMA\Documents\Projects\CSharp_Struct\CSharp_Struct\bin\Debug\CSharp_Struct.pdb
+C:\Users\NOMA\Documents\Projects\CSharp_Struct\CSharp_Struct\obj\x86\Debug\CSharp_Struct.exe
+C:\Users\NOMA\Documents\Projects\CSharp_Struct\CSharp_Struct\obj\x86\Debug\CSharp_Struct.pdb
